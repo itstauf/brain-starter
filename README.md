@@ -1,6 +1,6 @@
 # brain-starter
 
-**A filing cabinet, a rulebook and a way to grow its own tools: the house your AI second brain lives in.**
+**A Claude Code second brain starter: a filing cabinet, a rulebook and a way to grow its own tools. The house your AI second brain lives in.**
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-v0.1.0-green.svg)](CHANGELOG.md)
