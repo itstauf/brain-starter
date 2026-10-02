@@ -1,0 +1,19 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local agent settings
+.claude/settings.local.json
+
+# Secrets never belong in a brain
+.env
+.env.*
+*.pem
+*.key
+
+# Private material: uncomment if this repo is public and your raw/ is not
+# raw/*
+# !raw/.gitkeep
